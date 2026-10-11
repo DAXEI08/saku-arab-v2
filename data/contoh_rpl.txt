@@ -1,0 +1,230 @@
+متطلبات النظام | مُتَطَلَّبَاتُ النِّظَامِ مَكْتُوبَةٌ فِي الْمِلَفِّ | Persyaratan sistem tertulis di berkas
+تحليل المتطلبات | نَبْدَأُ بِتَحْلِيلِ الْمُتَطَلَّبَاتِ | Kami mulai dengan analisis kebutuhan
+متطلب وظيفي | هٰذَا مُتَطَلَّبٌ وَظِيفِيٌّ لِلنِّظَامِ | Ini persyaratan fungsional sistem
+متطلب غير وظيفي | السُّرْعَةُ مُتَطَلَّبٌ غَيْرُ وَظِيفِيٍّ | Kecepatan adalah persyaratan nonfungsional
+حالة الاستخدام | أَكْتُبُ حَالَةَ الِاسْتِخْدَامِ لِلْمُسْتَخْدِمِ | Saya menulis kasus penggunaan untuk pengguna
+مخطط التسلسل | مُخَطَّطُ التَّسَلْسُلِ يُبَيِّنُ الرَّسَائِلَ | Diagram urutan menunjukkan pesan-pesan
+مخطط النشاط | مُخَطَّطُ النَّشَاطِ وَاضِحٌ | Diagram aktivitasnya jelas
+مخطط الفئات | أَرْسُمُ مُخَطَّطَ الْفِئَاتِ | Saya menggambar diagram kelas
+بنية النظام | بِنْيَةُ النِّظَامِ بَسِيطَةٌ | Arsitektur sistemnya sederhana
+تصميم البرمجيات | أَدْرُسُ تَصْمِيمَ الْبَرْمَجِيَّاتِ | Saya belajar desain perangkat lunak
+دورة حياة البرنامج | دَوْرَةُ حَيَاةِ الْبَرْنَامَجِ لَهَا مَرَاحِلُ | Siklus hidup perangkat lunak punya tahapan
+مرحلة التحليل | مَرْحَلَةُ التَّحْلِيلِ هِيَ الْأُولَى | Tahap analisis adalah yang pertama
+مرحلة التنفيذ | نَحْنُ فِي مَرْحَلَةِ التَّنْفِيذِ | Kami berada di tahap implementasi
+مرحلة الصيانة | مَرْحَلَةُ الصِّيَانَةِ تَأْتِي بَعْدَ الْإِطْلَاقِ | Tahap pemeliharaan datang setelah peluncuran
+مخطط تخطيطي | هٰذَا مُخَطَّطٌ تَخْطِيطِيٌّ أَوَّلِيٌّ | Ini skema rancangan awal
+معمارية التطبيق | مِعْمَارِيَّةُ التَّطْبِيقِ مُنَظَّمَةٌ | Arsitektur aplikasinya tertata
+مكون برمجي | هٰذَا مُكَوِّنٌ بَرْمَجِيٌّ جَدِيدٌ | Ini komponen perangkat lunak baru
+إعادة استخدام الشفرة | إِعَادَةُ اسْتِخْدَامِ الشِّفْرَةِ تُوَفِّرُ الْوَقْتَ | Penggunaan ulang kode menghemat waktu
+مبدأ التجريد | مَبْدَأُ التَّجْرِيدِ يُخْفِي التَّفَاصِيلَ | Prinsip abstraksi menyembunyikan detail
+تغليف البيانات | تَغْلِيفُ الْبَيَانَاتِ يَحْمِيهَا | Enkapsulasi data melindunginya
+توريث الخصائص | تَوْرِيثُ الْخَصَائِصِ بَيْنَ الْفِئَاتِ | Pewarisan properti antarkelas
+تعدد الأشكال | تَعَدُّدُ الْأَشْكَالِ مَفْهُومٌ مُهِمٌّ | Polimorfisme adalah konsep penting
+واجهة برمجية | الْوَاجِهَةُ الْبَرْمَجِيَّةُ مُوَثَّقَةٌ | Antarmukanya terdokumentasi
+صنف مجرد | الصِّنْفُ الْمُجَرَّدُ لَا يُنْشِئُ كَائِنًا | Kelas abstrak tidak membuat objek
+دالة رئيسية | الدَّالَّةُ الرَّئِيسِيَّةُ تَبْدَأُ الْبَرْنَامَجَ | Fungsi utama memulai program
+معامل الدالة | مُعَامِلُ الدَّالَّةِ رَقْمٌ | Parameter fungsinya berupa angka
+قيمة معادة | الْقِيمَةُ الْمُعَادَةُ نَصٌّ | Nilai kembaliannya berupa teks
+نطاق المتغير | نِطَاقُ الْمُتَغَيِّرِ مَحْدُودٌ | Cakupan variabelnya terbatas
+متغير محلي | الْمُتَغَيِّرُ الْمَحَلِّيُّ دَاخِلَ الدَّالَّةِ | Variabel lokal ada di dalam fungsi
+متغير عام | الْمُتَغَيِّرُ الْعَامُّ يُرَى فِي كُلِّ مَكَانٍ | Variabel global terlihat di mana-mana
+تعريف النوع | تَعْرِيفُ النَّوْعِ وَاجِبٌ | Definisi tipe itu wajib
+تحويل النوع | تَحْوِيلُ النَّوْعِ مِنْ نَصٍّ إِلَى رَقْمٍ | Konversi tipe dari teks ke angka
+استدعاء متعاقب | الِاسْتِدْعَاءُ الْمُتَعَاقِبُ يُكَرِّرُ الدَّالَّةَ | Pemanggilan rekursif mengulang fungsi
+حلقة تكرار | حَلْقَةُ التَّكْرَارِ تَنْتَهِي عِنْدَ عَشَرَةٍ | Perulangan berhenti di sepuluh
+تكوين السلسلة | تَكْوِينُ السِّلْسِلَةِ يَجْمَعُ النُّصُوصَ | Penggabungan string menyatukan teks
+تعبير منطقي | التَّعْبِيرُ الْمَنْطِقِيُّ صَحِيحٌ | Ekspresi logikanya benar
+عامل شرطي | الْعَامِلُ الشَّرْطِيُّ يَخْتَصِرُ الْكُودَ | Operator kondisional meringkas kode
+ترتيب تصاعدي | التَّرْتِيبُ التَّصَاعُدِيُّ مِنَ الْأَصْغَرِ | Urutan menaik dari yang terkecil
+ترتيب تنازلي | التَّرْتِيبُ التَّنَازُلِيُّ مِنَ الْأَكْبَرِ | Urutan menurun dari yang terbesar
+بحث ثنائي | الْبَحْثُ الثُّنَائِيُّ أَسْرَعُ | Pencarian biner lebih cepat
+بحث خطي | الْبَحْثُ الْخَطِّيُّ يَفْحَصُ كُلَّ عُنْصُرٍ | Pencarian linear memeriksa tiap elemen
+خوارزمية الترتيب | خَوَارِزْمِيَّةُ التَّرْتِيبِ سَهْلَةٌ | Algoritma pengurutan itu mudah
+خوارزمية البحث | خَوَارِزْمِيَّةُ الْبَحْثِ سَرِيعَةٌ | Algoritma pencariannya cepat
+تعقيد الخوارزمية | تَعْقِيدُ الْخَوَارِزْمِيَّةِ مُنْخَفِضٌ | Kompleksitas algoritmanya rendah
+زمن التنفيذ | زَمَنُ التَّنْفِيذِ قَصِيرٌ | Waktu eksekusinya singkat
+استهلاك الذاكرة | اسْتِهْلَاكُ الذَّاكِرَةِ مُرْتَفِعٌ | Penggunaan memorinya tinggi
+بنية البيانات | بِنْيَةُ الْبَيَانَاتِ مُنَاسِبَةٌ | Struktur datanya sesuai
+قائمة مترابطة | الْقَائِمَةُ الْمُتَرَابِطَةُ مَرِنَةٌ | Linked list itu fleksibel
+مكدس | الْمَكْدَسُ آخِرُهُ يَخْرُجُ أَوَّلًا | Tumpukan: yang terakhir masuk keluar pertama
+طابور | الطَّابُورُ أَوَّلُهُ يَخْرُجُ أَوَّلًا | Antrean: yang pertama masuk keluar pertama
+شجرة ثنائية | الشَّجَرَةُ الثُّنَائِيَّةُ لَهَا فَرْعَانِ | Pohon biner punya dua cabang
+شجرة البحث | شَجَرَةُ الْبَحْثِ مُرَتَّبَةٌ | Pohon pencariannya terurut
+رأس القائمة | رَأْسُ الْقَائِمَةِ هُوَ الْعُنْصُرُ الْأَوَّلُ | Kepala daftar adalah elemen pertama
+عقدة البيانات | عُقْدَةُ الْبَيَانَاتِ تَحْمِلُ قِيمَةً | Simpul data membawa nilai
+مسار البحث | مَسَارُ الْبَحْثِ قَصِيرٌ | Jalur pencariannya pendek
+تفريع شرطي | التَّفْرِيعُ الشَّرْطِيُّ يَخْتَارُ الطَّرِيقَ | Percabangan bersyarat memilih jalan
+تحليل الأداء | تَحْلِيلُ الْأَدَاءِ يُظْهِرُ الْبُطْءَ | Analisis performa menunjukkan kelambatan
+تخطيط الصفحة | تَخْطِيطُ الصَّفْحَةِ مُرَتَّبٌ | Tata letak halamannya rapi
+شبكة التصميم | شَبَكَةُ التَّصْمِيمِ مِنْ أَرْبَعَةِ أَعْمِدَةٍ | Grid desainnya empat kolom
+نظام الألوان | نِظَامُ الْأَلْوَانِ هَادِئٌ | Sistem warnanya tenang
+تناسق الخطوط | تَنَاسُقُ الْخُطُوطِ جَمِيلٌ | Keserasian fontnya indah
+تراتب بصري | التَّرَاتُبُ الْبَصَرِيُّ يُرْشِدُ الْعَيْنَ | Hierarki visual memandu mata
+تغذية راجعة | التَّغْذِيَةُ الرَّاجِعَةُ مُفِيدَةٌ | Umpan baliknya berguna
+قابلية الوصول | قَابِلِيَّةُ الْوُصُولِ تُفِيدُ الْجَمِيعَ | Aksesibilitas bermanfaat bagi semua orang
+تسمية دلالية | التَّسْمِيَةُ الدِّلَالِيَّةُ تُوَضِّحُ الْمَعْنَى | Penamaan semantik memperjelas makna
+عنصر تفاعلي | الزِّرُّ عُنْصُرٌ تَفَاعُلِيٌّ | Tombol adalah elemen interaktif
+تحقيق التصميم | تَحْقِيقُ التَّصْمِيمِ يَحْتَاجُ إِلَى دِقَّةٍ | Implementasi desain butuh ketelitian
+نمط مظلم | النَّمَطُ الْمُظْلِمُ مُرِيحٌ لِلْعَيْنِ | Mode gelap nyaman di mata
+نمط فاتح | النَّمَطُ الْفَاتِحُ مُنَاسِبٌ لِلنَّهَارِ | Mode terang cocok untuk siang
+حالة التحميل | حَالَةُ التَّحْمِيلِ ظَاهِرَةٌ | Status pemuatan terlihat
+مؤشر التقدم | مُؤَشِّرُ التَّقَدُّمِ عِنْدَ النِّصْفِ | Indikator progres di setengah
+رسالة الخطإ | رِسَالَةُ الْخَطَإِ وَاضِحَةٌ | Pesan kesalahannya jelas
+حالة افتراضية | هٰذِهِ حَالَةٌ افْتِرَاضِيَّةٌ | Ini keadaan default
+قالب الصفحة | قَالَبُ الصَّفْحَةِ جَاهِزٌ | Templat halamannya siap
+مكون معاد الاستخدام | الْمُكَوِّنُ مُعَادُ الِاسْتِخْدَامِ يُوَفِّرُ الْجُهْدَ | Komponen yang dipakai ulang menghemat tenaga
+خصائص التنسيق | خَصَائِصُ التَّنْسِيقِ فِي مِلَفِّ الْأَنْمَاطِ | Properti styling ada di berkas gaya
+مرشح البحث | مُرَشِّحُ الْبَحْثِ يُضَيِّقُ النَّتَائِجَ | Filter pencarian mempersempit hasil
+تصفية النتائج | تَصْفِيَةُ النَّتَائِجِ حَسَبَ التَّارِيخِ | Penyaringan hasil menurut tanggal
+ترقيم الصفحات | تَرْقِيمُ الصَّفَحَاتِ فِي الْأَسْفَلِ | Penomoran halaman di bawah
+قائمة منسدلة | الْقَائِمَةُ الْمُنْسَدِلَةُ تَظْهَرُ عِنْدَ النَّقْرِ | Menu tarik-turun muncul saat diklik
+لوحة جانبية | اللَّوْحَةُ الْجَانِبِيَّةُ عَلَى الْيَمِينِ | Panel samping ada di kanan
+نقطة توقف | نُقْطَةُ التَّوَقُّفِ لِلشَّاشَةِ الصَّغِيرَةِ | Breakpoint untuk layar kecil
+تصميم مركز على الهاتف | التَّصْمِيمُ الْمُرَكَّزُ عَلَى الْهَاتِفِ أَوَّلًا | Desain mengutamakan ponsel dahulu
+محرك التنسيق | مُحَرِّكُ التَّنْسِيقِ يَرْسُمُ الصَّفْحَةَ | Mesin rendering menggambar halaman
+تصيير الصفحة | تَصْيِيرُ الصَّفْحَةِ سَرِيعٌ | Rendering halamannya cepat
+نمط المكونات | نَمَطُ الْمُكَوِّنَاتِ مُتَّسِقٌ | Pola komponennya konsisten
+مساعد الإدخال | مُسَاعِدُ الْإِدْخَالِ يَقْتَرِحُ الْقِيَمَ | Petunjuk input menyarankan nilai
+تحقق من المدخلات | التَّحَقُّقُ مِنَ الْمُدْخَلَاتِ ضَرُورِيٌّ | Validasi masukan itu perlu
+خادم الواجهة الخلفية | خَادِمُ الْوَاجِهَةِ الْخَلْفِيَّةِ يَعْمَلُ | Server backend berjalan
+طلب الشبكة | طَلَبُ الشَّبَكَةِ فَشِلَ | Permintaan jaringan gagal
+استجابة الخادم | اسْتِجَابَةُ الْخَادِمِ بَطِيئَةٌ | Respons server lambat
+نقطة النهاية | نُقْطَةُ النِّهَايَةِ تُرْجِعُ الْبَيَانَاتِ | Endpoint mengembalikan data
+مسار الطلب | مَسَارُ الطَّلَبِ صَحِيحٌ | Rute permintaannya benar
+طريقة الاستدعاء | طَرِيقَةُ الِاسْتِدْعَاءِ هِيَ الْجَلْبُ | Metode pemanggilannya GET
+تفويض الصلاحيات | تَفْوِيضُ الصَّلَاحِيَّاتِ لِلْمُدِيرِ | Otorisasi untuk admin
+إثبات الهوية | إِثْبَاتُ الْهُوِيَّةِ قَبْلَ الدُّخُولِ | Autentikasi sebelum masuk
+رمز الوصول | رَمْزُ الْوُصُولِ صَالِحٌ | Token aksesnya berlaku
+معرف الجلسة | مُعَرِّفُ الْجَلْسَةِ سِرِّيٌّ | ID sesinya rahasia
+مدة صلاحية الرمز | مُدَّةُ صَلَاحِيَّةِ الرَّمْزِ سَاعَةٌ | Masa berlaku token satu jam
+تحديد معدل الطلبات | تَحْدِيدُ مُعَدَّلِ الطَّلَبَاتِ يَحْمِي الْخَادِمَ | Pembatasan laju permintaan melindungi server
+معالجة الطلبات | مُعَالَجَةُ الطَّلَبَاتِ تَسْتَغْرِقُ ثَانِيَةً | Pemrosesan permintaan butuh sedetik
+طلب غير صالح | هٰذَا طَلَبٌ غَيْرُ صَالِحٍ | Ini permintaan tidak valid
+رمز حالة الاستجابة | رَمْزُ حَالَةِ الِاسْتِجَابَةِ مِئَتَانِ | Kode status responsnya dua ratus
+تسلسل البيانات | تَسَلْسُلُ الْبَيَانَاتِ قَبْلَ الْإِرْسَالِ | Serialisasi data sebelum dikirim
+تفكيك البيانات | تَفْكِيكُ الْبَيَانَاتِ بَعْدَ الِاسْتِقْبَالِ | Deserialisasi setelah diterima
+بيانات وصفية | الْبَيَانَاتُ الْوَصْفِيَّةُ تَصِفُ الْمِلَفَّ | Metadata menjelaskan berkas
+تكامل الخدمات | تَكَامُلُ الْخِدْمَاتِ يُسَهِّلُ الْعَمَلَ | Integrasi layanan memudahkan kerja
+طلب غير متزامن | الطَّلَبُ غَيْرُ الْمُتَزَامِنِ لَا يُوقِفُ الصَّفْحَةَ | Permintaan asinkron tidak menghentikan halaman
+معالجة متوازية | الْمُعَالَجَةُ الْمُتَوَازِيَةُ أَسْرَعُ | Pemrosesan paralel lebih cepat
+طابور المهام | طَابُورُ الْمَهَامِّ مُمْتَلِئٌ | Antrean tugasnya penuh
+معالجة الخلفية | مُعَالَجَةُ الْخَلْفِيَّةِ تَعْمَلُ لَيْلًا | Pemrosesan latar belakang berjalan malam hari
+تخزين مؤقت | التَّخْزِينُ الْمُؤَقَّتُ يُسَرِّعُ الصَّفْحَةَ | Cache mempercepat halaman
+فهرس القاعدة | فِهْرِسُ الْقَاعِدَةِ يُسَرِّعُ الِاسْتِعْلَامَ | Indeks basis data mempercepat query
+مفتاح أجنبي | الْمِفْتَاحُ الْأَجْنَبِيُّ يَرْبِطُ جَدْوَلَيْنِ | Kunci asing menghubungkan dua tabel
+قيد التفرد | قَيْدُ التَّفَرُّدِ يَمْنَعُ التَّكْرَارَ | Kendala unik mencegah duplikasi
+تجميع البيانات | تَجْمِيعُ الْبَيَانَاتِ حَسَبَ الشَّهْرِ | Agregasi data per bulan
+استعلام متشعب | الِاسْتِعْلَامُ الْمُتَشَعِّبُ طَوِيلٌ | Query kompleksnya panjang
+تثبيت المعاملة | تَثْبِيتُ الْمُعَامَلَةِ بَعْدَ النَّجَاحِ | Commit transaksi setelah berhasil
+إلغاء المعاملة | إِلْغَاءُ الْمُعَامَلَةِ عِنْدَ الْخَطَإِ | Rollback transaksi saat terjadi kesalahan
+قفل السجل | قَفْلُ السِّجِلِّ يَمْنَعُ التَّعْدِيلَ | Penguncian record mencegah perubahan
+تعارض البيانات | حَدَثَ تَعَارُضٌ فِي الْبَيَانَاتِ | Terjadi konflik data
+اتساق البيانات | اتِّسَاقُ الْبَيَانَاتِ مَضْمُونٌ | Konsistensi data terjamin
+توزيع البيانات | تَوْزِيعُ الْبَيَانَاتِ عَلَى خَوَادِمَ | Distribusi data ke beberapa server
+نسخة منعكسة | النُّسْخَةُ الْمُنْعَكِسَةُ تَحْمِي الْبَيَانَاتِ | Replika melindungi data
+ترحيل البيانات | تَرْحِيلُ الْبَيَانَاتِ إِلَى خَادِمٍ جَدِيدٍ | Migrasi data ke server baru
+مخزن البيانات | مَخْزَنُ الْبَيَانَاتِ كَبِيرٌ | Gudang datanya besar
+توزيع الجداول | تَوْزِيعُ الْجَدَاوِلِ يُقَلِّلُ الْحِمْلَ | Sharding tabel mengurangi beban
+سجل المعاملات | سِجِلُّ الْمُعَامَلَاتِ مَحْفُوظٌ | Log transaksinya tersimpan
+تفريع الشفرة | تَفْرِيعُ الشِّفْرَةِ لِمِيزَةٍ جَدِيدَةٍ | Membuat branch untuk fitur baru
+فرع التطوير | فَرْعُ التَّطْوِيرِ مَفْتُوحٌ | Branch pengembangannya terbuka
+دمج التغييرات | دَمْجُ التَّغْيِيرَاتِ بَعْدَ الْمُرَاجَعَةِ | Penggabungan perubahan setelah tinjauan
+تعارض الدمج | تَعَارُضُ الدَّمْجِ يَحْتَاجُ إِلَى حَلٍّ | Konflik merge perlu diselesaikan
+رسالة الالتزام | رِسَالَةُ الِالْتِزَامِ قَصِيرَةٌ | Pesan commit-nya singkat
+سجل التغييرات | سِجِلُّ التَّغْيِيرَاتِ فِي الْمِلَفِّ | Catatan perubahan ada di berkas
+نسخة مستقرة | هٰذِهِ نُسْخَةٌ مُسْتَقِرَّةٌ | Ini rilis stabil
+إصدار رسمي | الْإِصْدَارُ الرَّسْمِيُّ غَدًا | Rilis resminya besok
+مراجعة الشفرة | مُرَاجَعَةُ الشِّفْرَةِ تُحَسِّنُ الْجَوْدَةَ | Tinjauan kode meningkatkan mutu
+مختبر التكامل المستمر | مُخْتَبَرُ التَّكَامُلِ الْمُسْتَمِرِّ يَعْمَلُ تِلْقَائِيًّا | Pengujian integrasi berkelanjutan berjalan otomatis
+نشر تلقائي | النَّشْرُ التِّلْقَائِيُّ يُوَفِّرُ الْوَقْتَ | Deployment otomatis menghemat waktu
+بنية تحتية | الْبِنْيَةُ التَّحْتِيَّةُ مُسْتَقِرَّةٌ | Infrastrukturnya stabil
+حاوية برمجية | الْحَاوِيَةُ الْبَرْمَجِيَّةُ خَفِيفَةٌ | Kontainernya ringan
+صورة الحاوية | صُورَةُ الْحَاوِيَةِ جَاهِزَةٌ | Image kontainernya siap
+منسق الحاويات | مُنَسِّقُ الْحَاوِيَاتِ يُدِيرُ الْخِدْمَاتِ | Orkestrator kontainer mengelola layanan
+متغيرات البيئة | مُتَغَيِّرَاتُ الْبِيئَةِ سِرِّيَّةٌ | Variabel lingkungannya rahasia
+بيئة الاختبار | بِيئَةُ الِاخْتِبَارِ مُنْفَصِلَةٌ | Lingkungan pengujiannya terpisah
+بيئة الإنتاج | بِيئَةُ الْإِنْتَاجِ لِلْمُسْتَخْدِمِينَ | Lingkungan produksi untuk pengguna
+مجدول المهام | مُجَدْوِلُ الْمَهَامِّ يَعْمَلُ كُلَّ سَاعَةٍ | Penjadwal tugas berjalan tiap jam
+خط أنبوب التسليم | خَطُّ أُنْبُوبِ التَّسْلِيمِ تِلْقَائِيٌّ | Pipeline deployment otomatis
+إعادة النشر | إِعَادَةُ النَّشْرِ بَعْدَ الْإِصْلَاحِ | Deployment ulang setelah perbaikan
+مراقبة الخادم | مُرَاقَبَةُ الْخَادِمِ مُسْتَمِرَّةٌ | Pemantauan server terus berlangsung
+مؤشرات الأداء | مُؤَشِّرَاتُ الْأَدَاءِ جَيِّدَةٌ | Metrik kinerjanya baik
+تحليل السجلات | تَحْلِيلُ السِّجِلَّاتِ يَكْشِفُ الْمُشْكِلَةَ | Analisis log mengungkap masalah
+إشعار التنبيه | إِشْعَارُ التَّنْبِيهِ وَصَلَ | Notifikasi peringatan sudah masuk
+توافر الخدمة | تَوَافُرُ الْخِدْمَةِ عَالٍ | Ketersediaan layanannya tinggi
+انقطاع الخدمة | انْقِطَاعُ الْخِدْمَةِ مُؤَقَّتٌ | Gangguan layanannya sementara
+موازن الحمل | مُوَازِنُ الْحِمْلِ يُوَزِّعُ الطَّلَبَاتِ | Penyeimbang beban membagi permintaan
+مرشد الحزم | مُرْشِدُ الْحُزَمِ يُثَبِّتُ الْمَكْتَبَاتِ | Pengelola paket memasang pustaka
+تبعية برمجية | التَّبَعِيَّةُ الْبَرْمَجِيَّةُ قَدِيمَةٌ | Dependensinya lama
+تحديث رقعي | التَّحْدِيثُ الرَّقْعِيُّ يُصْلِحُ الثَّغْرَةَ | Pembaruan patch menutup celah
+اختبار الوحدات | اخْتِبَارُ الْوَحَدَاتِ نَاجِحٌ | Pengujian unit berhasil
+اختبار التكامل | اخْتِبَارُ التَّكَامُلِ بَعْدَ الْوَحَدَاتِ | Pengujian integrasi setelah unit
+اختبار النظام | اخْتِبَارُ النِّظَامِ كَامِلٌ | Pengujian sistem lengkap
+حالة الاختبار | حَالَةُ الِاخْتِبَارِ مَكْتُوبَةٌ | Kasus ujinya tertulis
+خطة الاختبار | خُطَّةُ الِاخْتِبَارِ جَاهِزَةٌ | Rencana pengujiannya siap
+تغطية الشفرة | تَغْطِيَةُ الشِّفْرَةِ ثَمَانُونَ بِالْمِئَةِ | Cakupan kodenya delapan puluh persen
+بيان الخطأ | بَيَانُ الْخَطَإِ مُفَصَّلٌ | Laporan bug-nya rinci
+إعادة إنتاج الخطإ | إِعَادَةُ إِنْتَاجِ الْخَطَإِ خُطْوَةٌ أُولَى | Mereproduksi bug adalah langkah pertama
+تحليل السبب الجذري | تَحْلِيلُ السَّبَبِ الْجَذْرِيِّ يَمْنَعُ التَّكْرَارَ | Analisis akar masalah mencegah pengulangan
+مستوى الخطورة | مُسْتَوَى الْخُطُورَةِ عَالٍ | Tingkat keparahannya tinggi
+أولوية الإصلاح | أَوْلَوِيَّةُ الْإِصْلَاحِ لِلْخَطَإِ الْحَرِجِ | Prioritas perbaikan untuk bug kritis
+معيار القبول | مِعْيَارُ الْقَبُولِ وَاضِحٌ | Kriteria penerimaannya jelas
+توثيق البرنامج | تَوْثِيقُ الْبَرْنَامَجِ كَامِلٌ | Dokumentasi programnya lengkap
+دليل المستخدم | دَلِيلُ الْمُسْتَخْدِمِ سَهْلٌ | Panduan penggunanya mudah
+تعليق الشفرة | تَعْلِيقُ الشِّفْرَةِ يَشْرَحُ الْفِكْرَةَ | Komentar kode menjelaskan gagasan
+معيار التسمية | مِعْيَارُ التَّسْمِيَةِ مُوَحَّدٌ | Konvensi penamaannya seragam
+ترميز المحارف | تَرْمِيزُ الْمَحَارِفِ هُوَ يُونِيكُود | Pengodean karakternya Unicode
+تشفير البيانات | تَشْفِيرُ الْبَيَانَاتِ ضَرُورِيٌّ | Enkripsi data itu perlu
+فك التشفير | فَكُّ التَّشْفِيرِ بِالْمِفْتَاحِ | Dekripsi dengan kunci
+مفتاح التشفير | مِفْتَاحُ التَّشْفِيرِ سِرِّيٌّ | Kunci enkripsinya rahasia
+ثغرة أمنية | وَجَدْنَا ثَغْرَةً أَمْنِيَّةً | Kami menemukan celah keamanan
+هجوم إلكتروني | الْهُجُومُ الْإِلِكْتُرُونِيُّ خَطِيرٌ | Serangan siber berbahaya
+استعادة النسخة | اسْتِعَادَةُ النُّسْخَةِ نَجَحَتْ | Pemulihan cadangan berhasil
+صلاحية الوصول | صَلَاحِيَّةُ الْوُصُولِ مَحْدُودَةٌ | Hak aksesnya terbatas
+بيانات حساسة | الْبَيَانَاتُ الْحَسَّاسَةُ مُشَفَّرَةٌ | Data sensitifnya terenkripsi
+مصدر مفتوح | هٰذَا مَشْرُوعٌ مَفْتُوحُ الْمَصْدَرِ | Ini proyek sumber terbuka
+ترخيص البرمجيات | تَرْخِيصُ الْبَرْمَجِيَّاتِ مُهِمٌّ | Lisensi perangkat lunak itu penting
+معالجة الاستثناء | مُعَالَجَةُ الِاسْتِثْنَاءِ تَمْنَعُ التَّوَقُّفَ | Penanganan exception mencegah berhenti
+تسابق الموارد | تَسَابُقُ الْمَوَارِدِ يُسَبِّبُ خَطَأً | Kondisi balapan menimbulkan kesalahan
+قفل متعاقب | الْقُفْلُ الْمُتَعَاقِبُ يَمْنَعُ التَّدَاخُلَ | Penguncian berurutan mencegah tumpang tindih
+تنافس المهام | تَنَافُسُ الْمَهَامِّ عَلَى الْمَوَارِدِ | Persaingan tugas atas sumber daya
+خيط تنفيذ | خَيْطُ التَّنْفِيذِ مُسْتَقِلٌّ | Utas eksekusinya mandiri
+وحدة المعالجة المركزية | وَحْدَةُ الْمُعَالَجَةِ الْمَرْكَزِيَّةُ سَرِيعَةٌ | Unit pemrosesan pusatnya cepat
+وحدة معالجة الرسومات | وَحْدَةُ مُعَالَجَةِ الرُّسُومَاتِ قَوِيَّةٌ | Unit pemrosesan grafisnya kuat
+ذاكرة وصولية عشوائية | الذَّاكِرَةُ الْوُصُولِيَّةُ الْعَشْوَائِيَّةُ مُؤَقَّتَةٌ | Memori akses acak bersifat sementara
+ذاكرة القراءة فقط | ذَاكِرَةُ الْقِرَاءَةِ فَقَطْ ثَابِتَةٌ | Memori hanya-baca bersifat tetap
+وحدة التخزين | وَحْدَةُ التَّخْزِينِ مُمْتَلِئَةٌ | Unit penyimpanannya penuh
+معمل التطوير | مَعْمَلُ التَّطْوِيرِ مُجَهَّزٌ | Lingkungan pengembangannya siap
+نظام التشغيل الخادمي | نِظَامُ التَّشْغِيلِ الْخَادِمِيُّ مُسْتَقِرٌّ | Sistem operasi server stabil
+تطبيق تدريجي | التَّطْبِيقُ التَّدْرِيجِيُّ يَعْمَلُ دُونَ إِنْتَرْنِتْ | Aplikasi progresif berjalan tanpa internet
+تطبيق سحابي | التَّطْبِيقُ السَّحَابِيُّ عَلَى الْإِنْتَرْنِتِ | Aplikasi cloud ada di internet
+خدمة سحابية | الْخِدْمَةُ السَّحَابِيَّةُ مَرِنَةٌ | Layanan cloud fleksibel
+بوابة الدخول | بَوَّابَةُ الدُّخُولِ مُؤَمَّنَةٌ | Portal masuknya aman
+رابط تشعبي | الرَّابِطُ التَّشَعُّبِيُّ يَفْتَحُ صَفْحَةً | Tautan hiper membuka halaman
+محرك القوالب | مُحَرِّكُ الْقَوَالِبِ يُوَلِّدُ الصَّفْحَاتِ | Mesin templat membuat halaman
+توليد الصفحات | تَوْلِيدُ الصَّفَحَاتِ تِلْقَائِيٌّ | Pembuatan halaman otomatis
+رسم بياني تفاعلي | الرَّسْمُ الْبَيَانِيُّ التَّفَاعُلِيُّ يُوَضِّحُ الْبَيَانَاتِ | Grafik interaktif memperjelas data
+تصفح آمن | التَّصَفُّحُ الْآمِنُ يَحْمِي الْمُسْتَخْدِمَ | Penjelajahan aman melindungi pengguna
+شهادة الأمان | شَهَادَةُ الْأَمَانِ صَالِحَةٌ | Sertifikat keamanannya berlaku
+بطء الاستجابة | بُطْءُ الِاسْتِجَابَةِ مُزْعِجٌ | Respons lambat itu mengganggu
+زمن التحميل | زَمَنُ التَّحْمِيلِ ثَلَاثُ ثَوَانٍ | Waktu pemuatan tiga detik
+تحسين محركات البحث | تَحْسِينُ مُحَرِّكَاتِ الْبَحْثِ يَزِيدُ الزُّوَّارَ | Optimasi mesin pencari menambah pengunjung
+معرف فريد | الْمُعَرِّفُ الْفَرِيدُ لِكُلِّ سِجِلٍّ | Pengenal unik untuk tiap record
+تصدير البيانات | تَصْدِيرُ الْبَيَانَاتِ إِلَى مِلَفٍّ | Ekspor data ke berkas
+استيراد البيانات | اسْتِيرَادُ الْبَيَانَاتِ مِنْ جَدْوَلٍ | Impor data dari tabel
+ملخص التغييرات | مُلَخَّصُ التَّغْيِيرَاتِ فِي الْأَعْلَى | Ringkasan perubahan di atas
+تخطيط السبرنت | تَخْطِيطُ السِّبْرِنْتِ يَوْمَ الِاثْنَيْنِ | Perencanaan sprint hari Senin
+مراجعة السبرنت | مُرَاجَعَةُ السِّبْرِنْتِ يَوْمَ الْجُمُعَةِ | Evaluasi sprint hari Jumat
+قائمة المهام | قَائِمَةُ الْمَهَامِّ طَوِيلَةٌ | Daftar tugasnya panjang
+تقدير الجهد | تَقْدِيرُ الْجُهْدِ تَقْرِيبِيٌّ | Estimasi usahanya perkiraan
+موعد التسليم | مَوْعِدُ التَّسْلِيمِ قَرِيبٌ | Tenggat penyerahannya dekat
+تقرير التقدم | تَقْرِيرُ التَّقَدُّمِ أُسْبُوعِيٌّ | Laporan kemajuannya mingguan
+مخاطرة المشروع | مُخَاطَرَةُ الْمَشْرُوعِ مُنْخَفِضَةٌ | Risiko proyeknya rendah
+توثيق القرار | تَوْثِيقُ الْقَرَارِ مُهِمٌّ | Dokumentasi keputusan itu penting
+مصادقة المستخدم | مُصَادَقَةُ الْمُسْتَخْدِمِ بِكَلِمَةِ الْمُرُورِ | Autentikasi pengguna dengan kata sandi
+ملاحظات المراجعة | مُلَاحَظَاتُ الْمُرَاجَعَةِ مُفِيدَةٌ | Catatan peninjauannya berguna
+قابلية الصيانة | قَابِلِيَّةُ الصِّيَانَةِ عَالِيَةٌ | Kemudahan pemeliharaannya tinggi
+قابلية التوسع | قَابِلِيَّةُ التَّوَسُّعِ مَطْلُوبَةٌ | Skalabilitas dibutuhkan
+متطلبات الأداء | مُتَطَلَّبَاتُ الْأَدَاءِ مُحَدَّدَةٌ | Persyaratan performanya ditetapkan
+زمن الاستجابة | زَمَنُ الِاسْتِجَابَةِ قَصِيرٌ | Waktu responsnya singkat
+تحمل الأخطاء | تَحَمُّلُ الْأَخْطَاءِ صِفَةٌ مُهِمَّةٌ | Toleransi kesalahan adalah sifat penting

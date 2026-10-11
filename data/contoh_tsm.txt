@@ -1,0 +1,199 @@
+وحدة التحكم الإلكترونية | وَحْدَةُ التَّحَكُّمِ الْإِلِكْتُرُونِيَّةُ تَقْرَأُ الْمُسْتَشْعِرَاتِ | Unit kontrol elektronik membaca sensor
+حاقن الوقود | حَاقِنُ الْوُقُودِ مَسْدُودٌ | Injektor bahan bakarnya tersumbat
+مضخة الوقود الكهربائية | مِضَخَّةُ الْوُقُودِ الْكَهْرَبَائِيَّةُ تَعْمَلُ | Pompa bahan bakar elektriknya bekerja
+منظم ضغط الوقود | مُنَظِّمُ ضَغْطِ الْوُقُودِ سَلِيمٌ | Regulator tekanan bahan bakarnya baik
+مستشعر الأكسجين | مُسْتَشْعِرُ الْأُكْسُجِينِ فِي الْعَادِمِ | Sensor oksigen ada di knalpot
+مستشعر وضع الخانق | مُسْتَشْعِرُ وَضْعِ الْخَانِقِ يَقِيسُ الْفَتْحَ | Sensor posisi throttle mengukur bukaan
+مستشعر ضغط المطلق | مُسْتَشْعِرُ الضَّغْطِ الْمُطْلَقِ فِي مَجْرَى السَّحْبِ | Sensor tekanan manifold ada di saluran isap
+مستشعر درجة الحرارة | مُسْتَشْعِرُ دَرَجَةِ الْحَرَارَةِ سَلِيمٌ | Sensor temperaturnya baik
+مستشعر موضع العمود المرفقي | مُسْتَشْعِرُ مَوْضِعِ الْعَمُودِ الْمِرْفَقِيِّ مُهِمٌّ | Sensor posisi poros engkol penting
+مستشعر موضع عمود الكامة | مُسْتَشْعِرُ مَوْضِعِ عَمُودِ الْكَامَةِ يُحَدِّدُ التَّوْقِيتَ | Sensor posisi poros nok menentukan timing
+صمام الخانق | صِمَامُ الْخَانِقِ مَفْتُوحٌ | Katup throttle terbuka
+جسم الخانق | جِسْمُ الْخَانِقِ مُتَّسِخٌ | Bodi throttle kotor
+صمام الخمول | صِمَامُ الْخُمُولِ يَضْبُطُ الدَّوَرَانَ | Katup idle mengatur putaran
+مشغل الصمام | مُشَغِّلُ الصِّمَامِ كَهْرَبَائِيٌّ | Aktuator katup bersifat elektrik
+ضغط الانضغاط | ضَغْطُ الِانْضِغَاطِ مُنَاسِبٌ | Tekanan kompresinya sesuai
+نسبة الانضغاط | نِسْبَةُ الِانْضِغَاطِ عَالِيَةٌ | Rasio kompresinya tinggi
+غرفة الاحتراق | غُرْفَةُ الِاحْتِرَاقِ نَظِيفَةٌ | Ruang bakarnya bersih
+حلقات المكبس | حَلَقَاتُ الْمِكْبَسِ مُتَآكِلَةٌ | Ring pistonnya aus
+عمود الكامة | عَمُودُ الْكَامَةِ يَدُورُ | Poros nok berputar
+رافع الصمام | رَافِعُ الصِّمَامِ صَغِيرٌ | Pengangkat katupnya kecil
+خروج العادم | خُرُوجُ الْعَادِمِ مِنَ الْأَنْبُوبِ | Gas buang keluar dari pipa
+مجموعة الصمامات | مَجْمُوعَةُ الصِّمَامَاتِ فِي الرَّأْسِ | Rangkaian katup ada di kepala silinder
+خيط اللولب | خَيْطُ اللَّوْلَبِ تَالِفٌ | Ulirnya rusak
+قابض العزم | قَابِضُ الْعَزْمِ يَنْقُلُ الْحَرَكَةَ | Kopling memindahkan tenaga
+صفائح القابض | صَفَائِحُ الْقَابِضِ مُتَآكِلَةٌ | Pelat koplingnya aus
+نابض القابض | نَابِضُ الْقَابِضِ ضَعِيفٌ | Pegas koplingnya lemah
+شوكة تغيير السرع | شَوْكَةُ تَغْيِيرِ السُّرَعِ مُنْحَنِيَةٌ | Garpu pemindah giginya bengkok
+عجلة الترس | عَجَلَةُ التُّرْسِ لَهَا أَسْنَانٌ | Roda gigi punya gerigi
+نسبة الترس | نِسْبَةُ التُّرْسِ تُحَدِّدُ السُّرْعَةَ | Rasio roda gigi menentukan kecepatan
+ترس القيادة | تُرْسُ الْقِيَادَةِ صَغِيرٌ | Gir penggeraknya kecil
+الترس المنقاد | التُّرْسُ الْمُنْقَادُ كَبِيرٌ | Gir yang digerakkan besar
+سلسلة القيادة | سِلْسِلَةُ الْقِيَادَةِ مَرْبُوطَةٌ | Rantai penggeraknya kencang
+موجه السلسلة | مُوَجِّهُ السِّلْسِلَةِ مَكْسُورٌ | Pemandu rantainya patah
+شداد السلسلة | شَدَّادُ السِّلْسِلَةِ يَضْبُطُ الشَّدَّ | Penegang rantai mengatur kekencangan
+مخفض السرعة | مُخَفِّضُ السُّرْعَةِ فِي الْعَجَلَةِ | Pereduksi kecepatan ada di roda
+محور العجلة | مِحْوَرُ الْعَجَلَةِ مُسْتَقِيمٌ | Poros rodanya lurus
+شوكة العجلة الأمامية | شَوْكَةُ الْعَجَلَةِ الْأَمَامِيَّةِ تُسَرِّبُ | Garpu roda depannya bocor
+مخمد الصدمة | مُخَمِّدُ الصَّدْمَةِ لَيِّنٌ | Peredam kejutnya empuk
+نابض التعليق | نَابِضُ التَّعْلِيقِ قَوِيٌّ | Pegas suspensinya kuat
+ذراع التعليق | ذِرَاعُ التَّعْلِيقِ صَدِئٌ | Lengan suspensinya berkarat
+رأس التوجيه | رَأْسُ التَّوْجِيهِ مُحْكَمٌ | Kepala kemudinya kencang
+محور التوجيه | مِحْوَرُ التَّوْجِيهِ يَدُورُ بِسُهُولَةٍ | Poros kemudi berputar lancar
+ذراع الفرملة | ذِرَاعُ الْفَرْمَلَةِ قَصِيرٌ | Tuas remnya pendek
+مضخة الفرملة | مِضَخَّةُ الْفَرْمَلَةِ تُسَرِّبُ | Pompa remnya bocor
+أسطوانة الفرملة | أُسْطُوَانَةُ الْفَرْمَلَةِ نَظِيفَةٌ | Silinder remnya bersih
+مكبس الفرملة | مِكْبَسُ الْفَرْمَلَةِ عَالِقٌ | Piston remnya macet
+قرص الفرملة | قُرْصُ الْفَرْمَلَةِ مَعْوَجٌّ | Cakram remnya bengkok
+بطانة الفرملة | بِطَانَةُ الْفَرْمَلَةِ رَقِيقَةٌ | Kampas remnya tipis
+منظم الفرملة | مُنَظِّمُ الْفَرْمَلَةِ يَضْبُطُ الضَّغْطَ | Regulator rem mengatur tekanan
+سائل الفرملة | سَائِلُ الْفَرْمَلَةِ قَلِيلٌ | Minyak remnya sedikit
+خط الفرملة | خَطُّ الْفَرْمَلَةِ مَسْدُودٌ | Saluran remnya tersumbat
+مؤشر تآكل الفرملة | مُؤَشِّرُ تَآكُلِ الْفَرْمَلَةِ مُضَاءٌ | Indikator keausan rem menyala
+مولد الشحن | مُوَلِّدُ الشَّحْنِ يَعْمَلُ | Alternator berfungsi
+مقوم التيار | مُقَوِّمُ التَّيَّارِ سَلِيمٌ | Penyearah arusnya baik
+ملف الشحن | مِلَفُّ الشَّحْنِ مَحْرُوقٌ | Kumparan pengisiannya terbakar
+لفة ملف الإشعال | لَفَّةُ مِلَفِّ الْإِشْعَالِ مَقْطُوعَةٌ | Lilitan koil pengapiannya putus
+مستشعر الميل | مُسْتَشْعِرُ الْمَيْلِ يَقْطَعُ الْمُحَرِّكَ | Sensor kemiringan mematikan mesin
+مفتاح القطع | مِفْتَاحُ الْقَطْعِ عَلَى الْمِقْوَدِ | Saklar pemutus ada di setang
+مرحل كهربائي | الْمِرْحَلُ الْكَهْرَبَائِيُّ يُصْدِرُ صَوْتًا | Relai listrik berbunyi
+مصهر كهربائي | الْمُصْهَرُ الْكَهْرَبَائِيُّ مَحْرُوقٌ | Sekringnya putus
+ضفيرة الأسلاك | ضَفِيرَةُ الْأَسْلَاكِ مُنَظَّمَةٌ | Harness kabelnya rapi
+موصل أرضي | الْمُوَصِّلُ الْأَرْضِيُّ مَفْكُوكٌ | Konektor massanya longgar
+هبوط الجهد | هُبُوطُ الْجُهْدِ عِنْدَ التَّشْغِيلِ | Penurunan tegangan saat menyalakan
+مقاومة كهربائية | الْمُقَاوَمَةُ الْكَهْرَبَائِيَّةُ عَالِيَةٌ | Resistansi listriknya tinggi
+تيار متناوب | التَّيَّارُ الْمُتَنَاوِبُ مِنَ الْمُوَلِّدِ | Arus bolak-balik dari alternator
+تيار مستمر | التَّيَّارُ الْمُسْتَمِرُّ مِنَ الْبَطَّارِيَّةِ | Arus searah dari aki
+مصباح الفرملة | مِصْبَاحُ الْفَرْمَلَةِ أَحْمَرُ | Lampu remnya merah
+مصباح الموضع | مِصْبَاحُ الْمَوْضِعِ صَغِيرٌ | Lampu posisinya kecil
+مؤشر العطل | مُؤَشِّرُ الْعُطْلِ مُضَاءٌ | Indikator kerusakannya menyala
+قراءة البيانات الحية | قِرَاءَةُ الْبَيَانَاتِ الْحَيَّةِ بِالْجِهَازِ | Membaca data langsung dengan alat
+جهاز فحص تشخيصي | جِهَازُ الْفَحْصِ التَّشْخِيصِيُّ مُتَّصِلٌ | Alat pemindai diagnostiknya terhubung
+اختبار القطعة | اخْتِبَارُ الْقِطْعَةِ بَعْدَ الْفَكِّ | Menguji komponen setelah dilepas
+تحليل القيم المقيسة | تَحْلِيلُ الْقِيَمِ الْمَقِيسَةِ يُوَضِّحُ الْعُطْلَ | Analisis nilai pengukuran menjelaskan kerusakan
+مقارنة القيم الفعلية | مُقَارَنَةُ الْقِيَمِ الْفِعْلِيَّةِ بِالْمَرْجِعِيَّةِ | Membandingkan nilai aktual dengan acuan
+قيم مرجعية | الْقِيَمُ الْمَرْجِعِيَّةُ فِي الدَّلِيلِ | Nilai acuan ada di buku panduan
+محاكاة العطل | مُحَاكَاةُ الْعُطْلِ لِلتَّدْرِيبِ | Simulasi kerusakan untuk latihan
+فحص بصري | الْفَحْصُ الْبَصَرِيُّ أَوَّلًا | Pemeriksaan visual dahulu
+اختبار التسرب | اخْتِبَارُ التَّسَرُّبِ بِالضَّغْطِ | Uji kebocoran dengan tekanan
+اختبار ضغط الأسطوانة | اخْتِبَارُ ضَغْطِ الْأُسْطُوَانَةِ يَكْشِفُ الْحَلَقَةَ | Uji tekanan silinder mengungkap ring
+قياس الفراغ | قِيَاسُ الْفَرَاغِ بِمِجَسِّ الْفَجْوَةِ | Mengukur celah dengan feeler gauge
+قياس الانحراف المحوري | قِيَاسُ الِانْحِرَافِ الْمِحْوَرِيِّ لِلْعَجَلَةِ | Mengukur run-out roda
+معدل الخمول | مُعَدَّلُ الْخُمُولِ ثَابِتٌ | Putaran idlenya stabil
+تشغيل بارد | التَّشْغِيلُ الْبَارِدُ صَعْبٌ | Start dingin sulit
+صوت غير طبيعي | هُنَاكَ صَوْتٌ غَيْرُ طَبِيعِيٍّ | Ada suara tidak normal
+اهتزاز مفرط | الِاهْتِزَازُ الْمُفْرِطُ فِي الْمِقْوَدِ | Getaran berlebihan di setang
+فقد القوة | فَقْدُ الْقُوَّةِ عِنْدَ الصُّعُودِ | Kehilangan tenaga saat menanjak
+زيادة استهلاك الوقود | زِيَادَةُ اسْتِهْلَاكِ الْوُقُودِ مُلْحُوظَةٌ | Peningkatan konsumsi bahan bakar terasa
+تسرب سائل التبريد | تَسَرُّبُ سَائِلِ التَّبْرِيدِ مِنَ الْخُرْطُومِ | Cairan pendingin bocor dari selang
+تآكل المحمل | تَآكُلُ الْمِحْمَلِ وَاضِحٌ | Keausan bantalan terlihat jelas
+تلف العازل | تَلَفُ الْعَازِلِ يُسَبِّبُ التَّسَرُّبَ | Kerusakan isolator menyebabkan kebocoran arus
+خطة الصيانة | خُطَّةُ الصِّيَانَةِ شَهْرِيَّةٌ | Rencana perawatannya bulanan
+سجل الصيانة | سِجِلُّ الصِّيَانَةِ فِي الدَّفْتَرِ | Catatan perawatan ada di buku
+فحص دوري | الْفَحْصُ الدَّوْرِيُّ كُلَّ ثَلَاثَةِ أَشْهُرٍ | Pemeriksaan berkala tiap tiga bulan
+فترة تغيير الزيت | فَتْرَةُ تَغْيِيرِ الزَّيْتِ شَهْرَانِ | Interval penggantian oli dua bulan
+تنظيف حجرة الهواء | تَنْظِيفُ حُجْرَةِ الْهَوَاءِ ضَرُورِيٌّ | Membersihkan kotak filter udara itu perlu
+تشحيم المفصل | تَشْحِيمُ الْمَفْصِلِ يُقَلِّلُ الِاحْتِكَاكَ | Pelumasan sambungan mengurangi gesekan
+ضبط خلاصة الصمام | ضَبْطُ خُلُوصِ الصِّمَامِ كُلَّ سَنَةٍ | Menyetel celah katup tiap tahun
+مزامنة الصمامات | مُزَامَنَةُ الصِّمَامَاتِ مَعَ الْعَمُودِ | Menyetel timing katup dengan poros
+شد السلسلة | شَدُّ السِّلْسِلَةِ كُلَّ شَهْرٍ | Menyetel kekencangan rantai tiap bulan
+ضبط ضغط الإطار | ضَبْطُ ضَغْطِ الْإِطَارِ قَبْلَ السَّفَرِ | Menyetel tekanan ban sebelum bepergian
+تفريغ نظام الفرملة | تَفْرِيغُ نِظَامِ الْفَرْمَلَةِ مِنَ الْهَوَاءِ | Membuang udara dari sistem rem
+غسل المرشح | غَسْلُ الْمُرَشِّحِ بِالْمَاءِ | Mencuci filter dengan air
+استبدال المرشح | اسْتِبْدَالُ الْمُرَشِّحِ كُلَّ سَنَةٍ | Mengganti filter tiap tahun
+صفر مؤشر الصيانة | صِفْرُ مُؤَشِّرِ الصِّيَانَةِ بَعْدَ الْخِدْمَةِ | Mereset indikator servis setelah perawatan
+حد التآكل | حَدُّ التَّآكُلِ مَكْتُوبٌ فِي الدَّلِيلِ | Batas keausan tertulis di buku panduan
+مواصفة العزم | مُوَاصَفَةُ الْعَزْمِ لِكُلِّ بُرْغِيٍّ | Spesifikasi torsi untuk tiap baut
+ترتيب الفك والتركيب | تَرْتِيبُ الْفَكِّ وَالتَّرْكِيبِ مُهِمٌّ | Urutan bongkar pasang itu penting
+قطعة استهلاكية | هٰذِهِ قِطْعَةٌ اسْتِهْلَاكِيَّةٌ | Ini komponen habis pakai
+رقم القطعة | رَقْمُ الْقِطْعَةِ فِي الْعُلْبَةِ | Nomor suku cadang ada di kotak
+قطعة بديلة | الْقِطْعَةُ الْبَدِيلَةُ أَرْخَصُ | Suku cadang penggantinya lebih murah
+مطابقة القطعة | مُطَابَقَةُ الْقِطْعَةِ بِالْقَدِيمَةِ | Mencocokkan suku cadang dengan yang lama
+طلبية قطع الغيار | طَلَبِيَّةُ قِطَعِ الْغِيَارِ جَاهِزَةٌ | Pesanan suku cadang siap
+مخزنات الورشة | مَخْزُونَاتُ الْوَرْشَةِ كَافِيَةٌ | Stok bengkelnya cukup
+مستودع قطع الغيار | مُسْتَوْدَعُ قِطَعِ الْغِيَارِ كَبِيرٌ | Gudang suku cadangnya besar
+بطاقة المخزون | بِطَاقَةُ الْمَخْزُونِ مُحَدَّثَةٌ | Kartu stoknya mutakhir
+حد إعادة الطلب | حَدُّ إِعَادَةِ الطَّلَبِ عَشَرَةٌ | Batas pemesanan ulang sepuluh
+تاريخ التصنيع | تَارِيخُ التَّصْنِيعِ عَلَى الْعُلْبَةِ | Tanggal produksi ada di kotak
+رقم التشغيلة | رَقْمُ التَّشْغِيلَةِ مَكْتُوبٌ | Nomor batch tertulis
+شرط الضمان | شَرْطُ الضَّمَانِ وَاضِحٌ | Ketentuan garansinya jelas
+مدة الضمان | مُدَّةُ الضَّمَانِ سَنَةٌ | Masa garansinya setahun
+تقدير تكلفة الإصلاح | تَقْدِيرُ تَكْلِفَةِ الْإِصْلَاحِ لِلْعَمِيلِ | Estimasi biaya perbaikan untuk pelanggan
+أمر الإصلاح | أَمْرُ الْإِصْلَاحِ مُوَقَّعٌ | Perintah kerja perbaikan bertanda tangan
+رقم أمر العمل | رَقْمُ أَمْرِ الْعَمَلِ فِي الْأَعْلَى | Nomor perintah kerja di atas
+موعد التسليم | مَوْعِدُ التَّسْلِيمِ بَعْدَ الظُّهْرِ | Jadwal penyerahan setelah siang
+شكوى العميل | شَكْوَى الْعَمِيلِ مَكْتُوبَةٌ | Keluhan pelanggan tertulis
+فحص بعد الإصلاح | فَحْصٌ بَعْدَ الْإِصْلَاحِ ضَرُورِيٌّ | Pemeriksaan setelah perbaikan itu perlu
+تجربة الطريق | تَجْرِبَةُ الطَّرِيقِ قَبْلَ التَّسْلِيمِ | Uji jalan sebelum penyerahan
+توضيح العطل | تَوْضِيحُ الْعُطْلِ لِلْعَمِيلِ | Menjelaskan kerusakan kepada pelanggan
+موافقة العميل | مُوَافَقَةُ الْعَمِيلِ قَبْلَ الْإِصْلَاحِ | Persetujuan pelanggan sebelum perbaikan
+إذن الإصلاح | إِذْنُ الْإِصْلَاحِ مَكْتُوبٌ | Izin perbaikannya tertulis
+مبرد المحرك | مُبَرِّدُ الْمُحَرِّكِ مُمْتَلِئٌ | Pendingin mesinnya penuh
+مروحة التبريد | مِرْوَحَةُ التَّبْرِيدِ تَدُورُ | Kipas pendinginnya berputar
+منظم الحرارة | مُنَظِّمُ الْحَرَارَةِ عَالِقٌ | Termostatnya macet
+مضخة سائل التبريد | مِضَخَّةُ سَائِلِ التَّبْرِيدِ تُسَرِّبُ | Pompa cairan pendinginnya bocor
+خزان التمدد | خَزَّانُ التَّمَدُّدِ شَفَّافٌ | Tabung reservoirnya bening
+مبرد الزيت | مُبَرِّدُ الزَّيْتِ نَظِيفٌ | Pendingin olinya bersih
+مقياس مستوى الزيت | مِقْيَاسُ مُسْتَوَى الزَّيْتِ مُنْخَفِضٌ | Pengukur level olinya rendah
+حلقة إحكام الزيت | حَلْقَةُ إِحْكَامِ الزَّيْتِ تَالِفَةٌ | Seal olinya rusak
+حوض المحرك | حَوْضُ الْمُحَرِّكِ فِيهِ زَيْتٌ | Bak mesin berisi oli
+جسم الأسطوانة | جِسْمُ الْأُسْطُوَانَةِ مِنَ الْحَدِيدِ | Blok silinder dari besi
+حشية رأس الأسطوانة | حَشِيَّةُ رَأْسِ الْأُسْطُوَانَةِ مَحْرُوقَةٌ | Gasket kepala silinder terbakar
+مقعد الصمام | مَقْعَدُ الصِّمَامِ مُتَآكِلٌ | Dudukan katupnya aus
+دليل الصمام | دَلِيلُ الصِّمَامِ مَرْتَخٍ | Pemandu katupnya longgar
+نابض الصمام | نَابِضُ الصِّمَامِ مَكْسُورٌ | Pegas katupnya patah
+موجه السير | مُوَجِّهُ السَّيْرِ يَحْمِي السِّلْسِلَةَ | Pemandu rantai melindungi rantai
+شداد التوقيت | شَدَّادُ التَّوْقِيتِ يَضْبُطُ السِّلْسِلَةَ | Penegang keteng mengatur rantai
+غطاء رأس الأسطوانة | غِطَاءُ رَأْسِ الْأُسْطُوَانَةِ يُسَرِّبُ | Tutup kepala silinder bocor
+عازل شمعة الإشعال | عَازِلُ شَمْعَةِ الْإِشْعَالِ أَبْيَضُ | Isolator busi berwarna putih
+قطب شمعة الإشعال | قُطْبُ شَمْعَةِ الْإِشْعَالِ مُتَآكِلٌ | Elektrode busi aus
+فجوة شمعة الإشعال | فَجْوَةُ شَمْعَةِ الْإِشْعَالِ مِلِّيمِتْرٌ وَاحِدٌ | Celah busi satu milimeter
+تقدم الإشعال | تَقَدُّمُ الْإِشْعَالِ يُحَسِّنُ الْقُوَّةَ | Pemajuan pengapian meningkatkan tenaga
+ترس المشغل | تُرْسُ الْمُشَغِّلِ مُتَآكِلٌ | Roda gigi starternya aus
+محور المولد | مِحْوَرُ الْمُوَلِّدِ يَدُورُ | Poros alternator berputar
+فرشاة المولد | فُرْشَاةُ الْمُوَلِّدِ قَصِيرَةٌ | Brush alternatornya pendek
+جهد البطارية | جُهْدُ الْبَطَّارِيَّةِ اثْنَا عَشَرَ فُولْتًا | Tegangan aki dua belas volt
+تيار الشحن | تَيَّارُ الشَّحْنِ ضَعِيفٌ | Arus pengisiannya lemah
+اختبار تفريغ البطارية | اخْتِبَارُ تَفْرِيغِ الْبَطَّارِيَّةِ طَوِيلٌ | Uji pengosongan aki lama
+تسرب كهربائي | التَّسَرُّبُ الْكَهْرَبَائِيُّ يُفَرِّغُ الْبَطَّارِيَّةَ | Kebocoran arus mengosongkan aki
+مقياس متعدد | الْمِقْيَاسُ الْمُتَعَدِّدُ يَقِيسُ الْفُولْتَ | Multimeter mengukur volt
+مصباح الاختبار | مِصْبَاحُ الِاخْتِبَارِ يُضِيءُ | Lampu tesnya menyala
+قطبية البطارية | قُطْبِيَّةُ الْبَطَّارِيَّةِ مَعْكُوسَةٌ | Polaritas akinya terbalik
+مأخذ الشحن | مَأْخَذُ الشَّحْنِ مُتَّسِخٌ | Port pengisiannya kotor
+مستشعر السرعة | مُسْتَشْعِرُ السُّرْعَةِ فِي الْعَجَلَةِ | Sensor kecepatan ada di roda
+مستشعر الخطو | مُسْتَشْعِرُ الْخَطْوِ يَضْبُطُ الْخُمُولَ | Sensor langkah mengatur idle
+مستشعر الطرق | مُسْتَشْعِرُ الطَّرْقِ يَكْشِفُ الِاحْتِرَاقَ الشَّاذَّ | Sensor ketukan mendeteksi pembakaran abnormal
+مستشعر الموضع | مُسْتَشْعِرُ الْمَوْضِعِ سَلِيمٌ | Sensor posisinya baik
+مضخم الإشعال | مُضَخِّمُ الْإِشْعَالِ يُقَوِّي الشَّرَارَةَ | Penguat pengapian menguatkan percikan
+صمام تصريف الهواء | صِمَامُ تَصْرِيفِ الْهَوَاءِ مَفْتُوحٌ | Katup pembuangan udara terbuka
+منقي الهواء | مُنَقِّي الْهَوَاءِ نَظِيفٌ | Pembersih udaranya bersih
+مجرى دخول الهواء | مَجْرَى دُخُولِ الْهَوَاءِ مَسْدُودٌ | Saluran masuk udaranya tersumbat
+مجرى الوقود | مَجْرَى الْوُقُودِ ضَيِّقٌ | Saluran bahan bakarnya sempit
+موزع الوقود | مُوَزِّعُ الْوُقُودِ يَعْمَلُ | Distributor bahan bakarnya bekerja
+مجرى السحب | مَجْرَى السَّحْبِ نَظِيفٌ | Saluran isapnya bersih
+مجرى العادم | مَجْرَى الْعَادِمِ سَاخِنٌ | Saluran gas buangnya panas
+كاتم الصوت | كَاتِمُ الصَّوْتِ مَثْقُوبٌ | Peredam suara knalpotnya bocor
+أنبوب العادم | أُنْبُوبُ الْعَادِمِ مَسْدُودٌ | Pipa knalpotnya tersumbat
+حشية العادم | حَشِيَّةُ الْعَادِمِ مَحْرُوقَةٌ | Gasket knalpotnya terbakar
+مثبت العادم | مُثَبِّتُ الْعَادِمِ مَكْسُورٌ | Dudukan knalpotnya patah
+حامل العادم | حَامِلُ الْعَادِمِ مَرِنٌ | Braket knalpotnya lentur
+مفصل العادم | مَفْصِلُ الْعَادِمِ يُسَرِّبُ | Sambungan fleksibel knalpot bocor
+مستوى الانبعاثات | مُسْتَوَى الِانْبِعَاثَاتِ مُنْخَفِضٌ | Tingkat emisinya rendah
+مؤشر حرارة المحرك | مُؤَشِّرُ حَرَارَةِ الْمُحَرِّكِ فِي الْأَحْمَرِ | Indikator suhu mesin di zona merah
+انخفاض الكبس | انْخِفَاضُ الْكَبْسِ فِي الْأُسْطُوَانَةِ | Kompresi rendah di silinder
+زيادة الكبس | زِيَادَةُ الْكَبْسِ تُسَبِّبُ الطَّرْقَ | Kompresi berlebih menyebabkan ketukan
+خلل في الإشعال | خَلَلٌ فِي الْإِشْعَالِ يُوقِفُ الْمُحَرِّكَ | Gangguan pengapian menghentikan mesin
+اختلال الخمول | اخْتِلَالُ الْخُمُولِ مُزْعِجٌ | Idle tidak stabil itu mengganggu
+تقطيع المحرك | تَقَطُّعُ الْمُحَرِّكِ عِنْدَ التَّسَارُعِ | Mesin tersendat saat menarik
+سخونة مفرطة | السُّخُونَةُ الْمُفْرِطَةُ تُتْلِفُ الْمُحَرِّكَ | Panas berlebih merusak mesin
+تدفق الوقود | تَدَفُّقُ الْوُقُودِ ضَعِيفٌ | Aliran bahan bakarnya lemah
+نقص ضغط الإطار | نَقْصُ ضَغْطِ الْإِطَارِ يُتْعِبُ الْمُحَرِّكَ | Tekanan ban kurang membebani mesin
+تآكل نقش الإطار | تَآكُلُ نَقْشِ الْإِطَارِ خَطِيرٌ | Keausan telapak ban berbahaya
+عمق نقش الإطار | عُمْقُ نَقْشِ الْإِطَارِ قَلِيلٌ | Kedalaman alur ban sedikit
+صمام الإطار | صِمَامُ الْإِطَارِ يُسَرِّبُ | Pentil bannya bocor
+جنط العجلة | جَنْطُ الْعَجَلَةِ مَعْدِنِيٌّ | Pelek rodanya logam
+انحراف العجلة | انْحِرَافُ الْعَجَلَةِ يُسَبِّبُ الِاهْتِزَازَ | Ketidaksejajaran roda menyebabkan getaran
+ترصيص العجلة | تَرْصِيصُ الْعَجَلَةِ بَعْدَ التَّغْيِيرِ | Balancing roda setelah penggantian
+محمل المقود | مِحْمَلُ الْمِقْوَدِ ثَقِيلٌ | Bantalan setangnya berat
+ذراع الوصل | ذِرَاعُ الْوَصْلِ مُنْحَنٍ | Lengan penghubungnya bengkok
+قاعدة المحرك | قَاعِدَةُ الْمُحَرِّكِ مُثَبَّتَةٌ | Dudukan mesinnya terpasang kuat

@@ -1,0 +1,209 @@
+مقياس سمك الطلاء | مِقْيَاسُ سُمْكِ الطِّلَاءِ يُظْهِرُ الرَّقْمَ | Pengukur ketebalan cat menunjukkan angka
+مقياس سمك الصفيحة | مِقْيَاسُ سُمْكِ الصَّفِيحَةِ دَقِيقٌ | Pengukur ketebalan pelat teliti
+مسطرة معدنية | الْمِسْطَرَةُ الْمَعْدِنِيَّةُ مُسْتَقِيمَةٌ | Mistar logamnya lurus
+مقياس الزاوية | مِقْيَاسُ الزَّاوِيَةِ فِي الصُّنْدُوقِ | Pengukur sudut ada di kotak
+مقياس التسطح | مِقْيَاسُ التَّسَطُّحِ يَكْشِفُ الِانْبِعَاجَ | Pengukur kerataan menemukan penyok
+مقياس الاستقامة | مِقْيَاسُ الِاسْتِقَامَةِ مَضْبُوطٌ | Pengukur kelurusan akurat
+مجس الفجوة | مِجَسُّ الْفَجْوَةِ رَفِيعٌ | Feeler gauge tipis
+قالب القياس | قَالَبُ الْقِيَاسِ لِلْبَابِ | Mal ukur untuk pintu
+ميزان الليزر | مِيزَانُ اللَّيْزَرِ دَقِيقٌ | Pengukur laser akurat
+مقياس الضغط | مِقْيَاسُ الضَّغْطِ عَلَى الصِّفْرِ | Pengukur tekanan menunjuk nol
+محاذاة الهيكل | مُحَاذَاةُ الْهَيْكَلِ ضَرُورِيَّةٌ بَعْدَ الصَّدْمَةِ | Penyelarasan rangka perlu setelah benturan
+قياس القطر | قِيَاسُ الْقُطْرِ يَكْشِفُ الِالْتِوَاءَ | Pengukuran diagonal mengungkap puntiran
+نقطة المرجع | نُقْطَةُ الْمَرْجِعِ ثَابِتَةٌ | Titik referensinya tetap
+خط المركز | خَطُّ الْمَرْكَزِ فِي وَسَطِ الْهَيْكَلِ | Garis tengah ada di tengah rangka
+فجوة الباب | فَجْوَةُ الْبَابِ مُتَسَاوِيَةٌ | Celah pintunya rata
+مساواة الألواح | مُسَاوَاةُ الْأَلْوَاحِ مَطْلُوبَةٌ | Keselarasan panel dibutuhkan
+التواء الهيكل | الْتِوَاءُ الْهَيْكَلِ خَطِيرٌ | Puntiran rangka berbahaya
+انبعاج الصفيحة | انْبِعَاجُ الصَّفِيحَةِ صَغِيرٌ | Lekukan pada pelat kecil
+انتفاخ السطح | انْتِفَاخُ السَّطْحِ بِسَبَبِ الرُّطُوبَةِ | Permukaan menggembung karena kelembapan
+تشوه بنيوي | هٰذَا تَشَوُّهٌ بُنْيَوِيٌّ | Ini deformasi struktural
+قفص الهيكل | قَفَصُ الْهَيْكَلِ قَوِيٌّ | Struktur rangka kabinnya kuat
+عارضة عرضية | الْعَارِضَةُ الْعَرْضِيَّةُ تُثَبِّتُ الْجَانِبَيْنِ | Palang melintang menahan kedua sisi
+عارضة طولية | الْعَارِضَةُ الطُّولِيَّةُ تَحْتَ الْأَرْضِيَّةِ | Palang memanjang di bawah lantai
+دعامة الصدمة | دِعَامَةُ الصَّدْمَةِ تَمْتَصُّ الْقُوَّةَ | Penyangga benturan menyerap gaya
+مصد الباب | مِصَدُّ الْبَابِ يَحْمِي الرَّاكِبَ | Pelindung benturan pintu melindungi penumpang
+لوح السقف | لَوْحُ السَّقْفِ مُنْبَعِجٌ | Panel atapnya penyok
+لوح الأرضية | لَوْحُ الْأَرْضِيَّةِ صَدِئٌ | Panel lantainya berkarat
+حافة العجلة | حَافَّةُ الْعَجَلَةِ مَثْنِيَّةٌ | Bibir lengkung rodanya bengkok
+قائمة الزجاج | قَائِمَةُ الزُّجَاجِ مَكْسُورَةٌ | Pilar kacanya rusak
+قائمة السقف | قَائِمَةُ السَّقْفِ قَوِيَّةٌ | Pilar atapnya kuat
+إطار النافذة | إِطَارُ النَّافِذَةِ مَعْدِنِيٌّ | Bingkai jendelanya logam
+مفصل الباب | مَفْصِلُ الْبَابِ يَحْتَاجُ إِلَى زَيْتٍ | Engsel pintu butuh pelumas
+محديد الباب | مُحَدِّدُ الْبَابِ مَكْسُورٌ | Penahan pintunya patah
+قفل الباب | قُفْلُ الْبَابِ لَا يَعْمَلُ | Kunci pintunya tidak berfungsi
+زجاج مقوى | الزُّجَاجُ الْمُقَوَّى آمِنٌ | Kaca diperkuat itu aman
+مساحة الزجاج | مَسَّاحَةُ الزُّجَاجِ قَدِيمَةٌ | Wiper kacanya lama
+مجرى الماء | مَجْرَى الْمَاءِ مَسْدُودٌ | Saluran airnya tersumbat
+مصرف المطر | مَصْرَفُ الْمَطَرِ فِي أَسْفَلِ الْبَابِ | Lubang pembuangan air hujan di bawah pintu
+مادة عازلة | الْمَادَّةُ الْعَازِلَةُ تَمْنَعُ الصَّوْتَ | Bahan penyekat meredam suara
+مادة مضادة للصدأ | الْمَادَّةُ الْمُضَادَّةُ لِلصَّدَأِ ضَرُورِيَّةٌ | Bahan antikarat itu perlu
+طلاء أولي | الطِّلَاءُ الْأَوَّلِيُّ رَمَادِيٌّ | Cat dasarnya abu-abu
+طلاء واق | الطِّلَاءُ الْوَاقِي يَحْمِي الْمَعْدِنَ | Lapisan pelindung melindungi logam
+مادة المعجون | مَادَّةُ الْمَعْجُونِ جَاهِزَةٌ | Bahan dempulnya siap
+مذيب الطلاء | مُذِيبُ الطِّلَاءِ قَوِيٌّ | Pelarut catnya kuat
+مرقق الطلاء | مُرَقِّقُ الطِّلَاءِ يَجْعَلُهُ سَائِلًا | Pengencer cat membuatnya cair
+معجل التجفف | مُعَجِّلُ التَّجَفُّفِ يُوَفِّرُ الْوَقْتَ | Akselerator pengering menghemat waktu
+مبطئ التجفف | مُبَطِّئُ التَّجَفُّفِ لِلْجَوِّ الْحَارِّ | Penghambat pengeringan untuk cuaca panas
+محسن الالتصاق | مُحَسِّنُ الِالْتِصَاقِ تَحْتَ الطِّلَاءِ | Peningkat daya lekat di bawah cat
+مادة مانعة للتسرب | الْمَادَّةُ الْمَانِعَةُ لِلتَّسَرُّبِ عِنْدَ الْمَفْصِلِ | Sealant di sambungan
+مادة ماصة للصدمة | الْمَادَّةُ الْمَاصَّةُ لِلصَّدْمَةِ خَفِيفَةٌ | Bahan penyerap benturan ringan
+مركب لتقوية الألياف | مُرَكَّبٌ لِتَقْوِيَةِ الْأَلْيَافِ | Komposit penguat serat
+راتنج صناعي | الرَّاتِنْجُ الصِّنَاعِيُّ يَتَصَلَّبُ | Resin sintetis mengeras
+سبيكة الألمنيوم | سَبِيكَةُ الْأَلُمِنْيُومِ خَفِيفَةٌ | Paduan aluminium ringan
+صفيحة مجلوبة بالبارد | الصَّفِيحَةُ الْمَجْلُوبَةُ بِالْبَارِدِ نَاعِمَةٌ | Pelat canai dingin halus
+سطح مجروش | السَّطْحُ الْمَجْرُوشُ جَاهِزٌ لِلطِّلَاءِ | Permukaan tergerinda siap dicat
+صنفرة خشنة | الصَّنْفَرَةُ الْخَشِنَةُ أَوَّلًا | Pengamplasan kasar dahulu
+صنفرة ناعمة | الصَّنْفَرَةُ النَّاعِمَةُ بَعْدَ الْمَعْجُونِ | Pengamplasan halus setelah dempul
+تنظيف بالمذيب | التَّنْظِيفُ بِالْمُذِيبِ قَبْلَ الطِّلَاءِ | Pembersihan dengan pelarut sebelum cat
+إزالة الشحم | إِزَالَةُ الشَّحْمِ ضَرُورِيَّةٌ | Menghilangkan lemak itu perlu
+ملء الفجوات | مَلْءُ الْفَجَوَاتِ بِالْمَعْجُونِ | Mengisi celah dengan dempul
+تسخين موجه | التَّسْخِينُ الْمُوَجَّهُ يُعِيدُ الشَّكْلَ | Pemanasan terarah mengembalikan bentuk
+سحب المعدن | سَحْبُ الْمَعْدِنِ بِالْأَدَاةِ | Menarik logam dengan alat
+طرق دقيق | الطَّرْقُ الدَّقِيقُ يُسَوِّي السَّطْحَ | Pemukulan presisi meratakan permukaan
+تسوية بالمطرقة | التَّسْوِيَةُ بِالْمِطْرَقَةِ تَحْتَاجُ إِلَى خِبْرَةٍ | Perataan dengan palu butuh pengalaman
+إصلاح الخدش | إِصْلَاحُ الْخَدْشِ سَهْلٌ | Memperbaiki goresan itu mudah
+إصلاح الانبعاج | إِصْلَاحُ الِانْبِعَاجِ يَسْتَغْرِقُ سَاعَةً | Memperbaiki penyok butuh satu jam
+معالجة الحافة | مُعَالَجَةُ الْحَافَّةِ بِدِقَّةٍ | Merapikan bagian tepi dengan teliti
+عينة اللون | عَيِّنَةُ اللَّوْنِ عَلَى اللَّوْحَةِ | Sampel warna di papan
+خلط الألوان | خَلْطُ الْأَلْوَانِ بِنِسْبَةٍ دَقِيقَةٍ | Mencampur warna dengan takaran tepat
+مسدس الرش | مِسْدَسُ الرَّشِّ نَظِيفٌ | Spray gun-nya bersih
+ضبط ضغط الرش | ضَبْطُ ضَغْطِ الرَّشِّ مُهِمٌّ | Mengatur tekanan semprot itu penting
+طبقة تحضيرية | الطَّبَقَةُ التَّحْضِيرِيَّةُ رَقِيقَةٌ | Lapisan persiapan tipis
+طبقة نهائية | الطَّبَقَةُ النِّهَائِيَّةُ لَامِعَةٌ | Lapisan akhirnya mengilap
+زمن التبخر | زَمَنُ التَّبَخُّرِ خَمْسُ دَقَائِقَ | Waktu flash-off lima menit
+زمن الجفاف | زَمَنُ الْجَفَافِ سَاعَتَانِ | Waktu pengeringan dua jam
+تجفف بالفرن | التَّجَفُّفُ بِالْفُرْنِ أَسْرَعُ | Pengeringan oven lebih cepat
+تلميع دوراني | التَّلْمِيعُ الدَّوَرَانِيُّ يُعْطِي لَمَعَانًا | Pemolesan rotary memberi kilap
+معجون التلميع | مَعْجُونُ التَّلْمِيعِ نَاعِمٌ | Pasta polesnya halus
+إزالة الهالة | إِزَالَةُ الْهَالَةِ بَعْدَ التَّلْمِيعِ | Menghilangkan hologram setelah poles
+تشطيب نهائي | التَّشْطِيبُ النِّهَائِيُّ مُتْقَنٌ | Finishing akhirnya rapi
+قياس سمك الطلاء النهائي | قِيَاسُ سُمْكِ الطِّلَاءِ النِّهَائِيِّ بَعْدَ الْجَفَافِ | Mengukur ketebalan cat akhir setelah kering
+لحام بالقوس الكهربائي | اللِّحَامُ بِالْقَوْسِ الْكَهْرَبَائِيِّ شَائِعٌ | Las busur listrik itu umum
+لحام بالغاز الخامل | اللِّحَامُ بِالْغَازِ الْخَامِلِ نَظِيفٌ | Las gas inert itu bersih
+مسار اللحام | مَسَارُ اللِّحَامِ مُسْتَقِيمٌ | Jalur lasnya lurus
+نقطة اللحام | نُقْطَةُ اللِّحَامِ قَوِيَّةٌ | Titik lasnya kuat
+خط اللحام | خَطُّ اللِّحَامِ طَوِيلٌ | Garis lasnya panjang
+منطقة تأثر الحرارة | مِنْطَقَةُ تَأَثُّرِ الْحَرَارَةِ حَوْلَ اللِّحَامِ | Daerah terpengaruh panas di sekitar lasan
+تشوه اللحام | تَشَوُّهُ اللِّحَامِ يَحْدُثُ بِالْحَرَارَةِ | Distorsi pengelasan terjadi karena panas
+مشبك التأريض | مِشْبَكُ التَّأْرِيضِ عَلَى الْهَيْكَلِ | Klem massa di rangka
+قضيب الحشو | قَضِيبُ الْحَشْوِ يُكْمِلُ الْوُصْلَةَ | Batang pengisi melengkapi sambungan
+حاجز الشرر | حَاجِزُ الشَّرَرِ يَحْمِي الْعُمَّالَ | Tirai percikan melindungi pekerja
+قطع بالبلازما | الْقَطْعُ بِالْبِلَازْمَا سَرِيعٌ | Pemotongan plasma cepat
+قطع بالقرص | الْقَطْعُ بِالْقُرْصِ يُصْدِرُ شَرَارًا | Pemotongan dengan cakram menimbulkan percikan
+مقص صفيحي | الْمِقَصُّ الصَّفِيحِيُّ حَادٌّ | Gunting pelatnya tajam
+مثقاب هوائي | الْمِثْقَابُ الْهَوَائِيُّ قَوِيٌّ | Bor pneumatiknya kuat
+مفتاح عزم | مِفْتَاحُ الْعَزْمِ دَقِيقٌ | Kunci torsinya akurat
+مضخة الهواء | مِضَخَّةُ الْهَوَاءِ تَعْمَلُ | Pompa udaranya bekerja
+صنبور قطع اللولب | صُنْبُورُ قَطْعِ اللَّوْلَبِ مِنَ الْفُولَاذِ | Tap pemotong ulir dari baja
+مبرد معدني | الْمِبْرَدُ الْمَعْدِنِيُّ خَشِنٌ | Kikir logamnya kasar
+مقبض الشد | مِقْبَضُ الشَّدِّ قَوِيٌّ | Alat penariknya kuat
+منضدة الإصلاح | مِنْضَدَةُ الْإِصْلَاحِ نَظِيفَةٌ | Meja perbaikannya bersih
+رافعة الهيكل | رَافِعَةُ الْهَيْكَلِ تَحْتَ السَّيَّارَةِ | Pengangkat rangka di bawah mobil
+سلسلة السحب | سِلْسِلَةُ السَّحْبِ طَوِيلَةٌ | Rantai penariknya panjang
+مطرقة لينة | الْمِطْرَقَةُ اللَّيِّنَةُ لَا تَخْدِشُ | Palu lunak tidak menggores
+مطرقة الألمنيوم | مِطْرَقَةُ الْأَلُمِنْيُومِ خَفِيفَةٌ | Palu aluminium ringan
+مبرد المعجون | مِبْرَدُ الْمَعْجُونِ لِلتَّسْوِيَةِ | Kikir dempul untuk meratakan
+سكين المعجون | سِكِّينُ الْمَعْجُونِ عَرِيضَةٌ | Pisau dempulnya lebar
+مكشط | الْمِكْشَطُ فِي الْأَدَوَاتِ | Pengikis ada di perkakas
+قفاز مقاوم للحرارة | الْقُفَّازُ الْمُقَاوِمُ لِلْحَرَارَةِ ضَرُورِيٌّ | Sarung tangan tahan panas itu wajib
+نظارة واقية | النَّظَّارَةُ الْوَاقِيَةُ عَلَى الْعَيْنَيْنِ | Kacamata pelindung di mata
+مرشح الهواء | مُرَشِّحُ الْهَوَاءِ فِي غُرْفَةِ الرَّشِّ | Filter udara di ruang semprot
+قناع الأبخرة | قِنَاعُ الْأَبْخِرَةِ يَحْمِي الرِّئَتَيْنِ | Respirator uap melindungi paru-paru
+مادة قابلة للاشتعال | الْمَادَّةُ الْقَابِلَةُ لِلِاشْتِعَالِ بَعِيدَةٌ عَنِ النَّارِ | Bahan mudah terbakar jauh dari api
+تهوية موضعية | التَّهْوِيَةُ الْمَوْضِعِيَّةُ عِنْدَ اللِّحَامِ | Ventilasi lokal saat mengelas
+نظام شفط الأبخرة | نِظَامُ شَفْطِ الْأَبْخِرَةِ يَعْمَلُ | Sistem penyedot uap berjalan
+طفاية حريق | طَفَّايَةُ الْحَرِيقِ عَلَى الْحَائِطِ | Alat pemadam api di dinding
+صحيفة بيانات السلامة | صَحِيفَةُ بَيَانَاتِ السَّلَامَةِ مَعَ الْمَادَّةِ | Lembar data keselamatan menyertai bahan
+فصل مصدر الطاقة | فَصْلُ مَصْدَرِ الطَّاقَةِ قَبْلَ الْإِصْلَاحِ | Isolasi sumber energi sebelum perbaikan
+معالجة النفايات الخطرة | مُعَالَجَةُ النُّفَايَاتِ الْخَطِرَةِ وَاجِبَةٌ | Penanganan limbah berbahaya itu wajib
+تسرب كيميائي | حَدَثَ تَسَرُّبٌ كِيمْيَائِيٌّ | Terjadi kebocoran bahan kimia
+تحقيق الحادث | تَحْقِيقُ الْحَادِثِ بَعْدَ الْإِصَابَةِ | Investigasi kecelakaan setelah cedera
+قابلية التتبع | قَابِلِيَّةُ التَّتَبُّعِ فِي السِّجِلِّ | Ketertelusuran ada di catatan
+تقرير العيب | تَقْرِيرُ الْعَيْبِ مَكْتُوبٌ | Laporan cacatnya tertulis
+عيب سطحي | هٰذَا عَيْبٌ سَطْحِيٌّ | Ini cacat permukaan
+مسامية الطلاء | مَسَامِيَّةُ الطِّلَاءِ بِسَبَبِ الرُّطُوبَةِ | Porositas cat karena kelembapan
+تقشر الطلاء | تَقَشُّرُ الطِّلَاءِ عَلَى الْبَابِ | Cat mengelupas di pintu
+تجعد الطلاء | تَجَعُّدُ الطِّلَاءِ بَعْدَ الرَّشِّ | Cat berkerut setelah disemprot
+تسيل الطلاء | تَسَيُّلُ الطِّلَاءِ مِنْ كَثْرَةِ الرَّشِّ | Cat meleleh karena terlalu banyak semprot
+تكون الفقاعات | تَكَوُّنُ الْفُقَاعَاتِ فِي الطِّلَاءِ | Terbentuk gelembung pada cat
+تلوث السطح | تَلَوُّثُ السَّطْحِ يُفْسِدُ الطِّلَاءَ | Kontaminasi permukaan merusak cat
+تحمل الصدمة | تَحَمُّلُ الصَّدْمَةِ عَالٍ | Ketahanan benturannya tinggi
+مقاومة التآكل | مُقَاوَمَةُ التَّآكُلِ جَيِّدَةٌ | Ketahanan korosinya baik
+اختبار الالتصاق | اخْتِبَارُ الِالْتِصَاقِ نَاجِحٌ | Uji daya lekat berhasil
+اختبار رش الملح | اخْتِبَارُ رَشِّ الْمِلْحِ طَوِيلٌ | Uji semprotan garam lama
+توثيق الصور | تَوْثِيقُ الصُّوَرِ قَبْلَ الْإِصْلَاحِ | Dokumentasi foto sebelum perbaikan
+إذن إعادة العمل | إِذْنُ إِعَادَةِ الْعَمَلِ مِنَ الْمُشْرِفِ | Izin pengerjaan ulang dari pengawas
+لوح الجنب | لَوْحُ الْجَنْبِ مَخْدُوشٌ | Panel sampingnya tergores
+لوح الربع الخلفي | لَوْحُ الرُّبْعِ الْخَلْفِيِّ مُنْبَعِجٌ | Panel seperempat belakangnya penyok
+غطاء صندوق الأمتعة | غِطَاءُ صُنْدُوقِ الْأَمْتِعَةِ مَفْتُوحٌ | Tutup bagasinya terbuka
+غطاء المصد | غِطَاءُ الْمُصَدِّ مِنَ الْبِلَاسْتِيكِ | Cover bumper dari plastik
+دعامة المصد | دِعَامَةُ الْمُصَدِّ مَكْسُورَةٌ | Penguat bumpernya patah
+مبطن قوس العجلة | مُبَطِّنُ قَوْسِ الْعَجَلَةِ مُتَّسِخٌ | Pelapis lengkung roda kotor
+حامل المصباح | حَامِلُ الْمِصْبَاحِ مَكْسُورٌ | Dudukan lampunya patah
+حامل المرآة | حَامِلُ الْمِرْآةِ مَائِلٌ | Dudukan spionnya miring
+مصدام خلفي | الْمِصْدَامُ الْخَلْفِيُّ مَكْسُورٌ | Bumper belakangnya pecah
+مصدام أمامي | الْمِصْدَامُ الْأَمَامِيُّ جَدِيدٌ | Bumper depannya baru
+ممسك الباب | مُمْسِكُ الْبَابِ ضَعِيفٌ | Pengait pintunya lemah
+مثبت البطانة | مُثَبِّتُ الْبِطَانَةِ صَغِيرٌ | Klip panel interiornya kecil
+مادة سد الفواصل | مَادَّةُ سَدِّ الْفَوَاصِلِ بَيْضَاءُ | Bahan penyegel sambungannya putih
+شريط لاصق للحماية | الشَّرِيطُ اللَّاصِقُ لِلْحِمَايَةِ عَلَى الزُّجَاجِ | Selotip pelindung di kaca
+ورق الصنفرة | وَرَقُ الصَّنْفَرَةِ خَشِنٌ | Kertas amplasnya kasar
+قرص الصنفرة | قُرْصُ الصَّنْفَرَةِ مُتَآكِلٌ | Cakram amplasnya aus
+حامل قرص الصنفرة | حَامِلُ قُرْصِ الصَّنْفَرَةِ جَدِيدٌ | Dudukan cakram amplasnya baru
+مفتاح الهواء | مِفْتَاحُ الْهَوَاءِ سَرِيعٌ | Kunci pneumatiknya cepat
+مقص المعدن | مِقَصُّ الْمَعْدِنِ ثَقِيلٌ | Gunting logamnya berat
+قاطع الصفيحة | قَاطِعُ الصَّفِيحَةِ حَادٌّ | Pemotong pelatnya tajam
+مثقاب مغناطيسي | الْمِثْقَابُ الْمِغْنَاطِيسِيُّ يُثَبَّتُ بِقُوَّةٍ | Bor magnet menempel kuat
+مسدس تسخين | مُسَدَّسُ التَّسْخِينِ سَاخِنٌ | Heat gun-nya panas
+مقبض التسوية | مِقْبَضُ التَّسْوِيَةِ مَرِيحٌ | Gagang alat peratanya nyaman
+قضيب السحب | قَضِيبُ السَّحْبِ مُتَّصِلٌ بِالسِّلْسِلَةِ | Batang penarik tersambung ke rantai
+بنش تقويم الهيكل | بَنْشُ تَقْوِيمِ الْهَيْكَلِ كَبِيرٌ | Meja pelurus rangkanya besar
+برج السحب | بُرْجُ السَّحْبِ يَشُدُّ الْهَيْكَلَ | Menara penarik menarik rangka
+مضخة هيدروليكية | الْمِضَخَّةُ الْهَيْدْرُولِيكِيَّةُ تَرْفَعُ الضَّغْطَ | Pompa hidraulik menaikkan tekanan
+أسطوانة هيدروليكية | الْأُسْطُوَانَةُ الْهَيْدْرُولِيكِيَّةُ تَدْفَعُ | Silinder hidraulik mendorong
+خط السحب | خَطُّ السَّحْبِ مُسْتَقِيمٌ | Jalur penarikannya lurus
+مشبك الهيكل | مِشْبَكُ الْهَيْكَلِ مُحْكَمٌ | Klem rangkanya kencang
+مقياس المسافة | مِقْيَاسُ الْمَسَافَةِ دَقِيقٌ | Alat ukur jaraknya akurat
+قياس المستوى | قِيَاسُ الْمُسْتَوَى بَعْدَ التَّقْوِيمِ | Pengukuran level setelah pelurusan
+مستشعر القياس | مُسْتَشْعِرُ الْقِيَاسِ حَسَّاسٌ | Sensor pengukurannya sensitif
+نظام القياس الرقمي | نِظَامُ الْقِيَاسِ الرَّقْمِيِّ سَرِيعٌ | Sistem pengukuran digitalnya cepat
+قياس التناظر | قِيَاسُ التَّنَاظُرِ بَيْنَ الْجَانِبَيْنِ | Pengukuran simetri antara dua sisi
+تقويم الهيكل | تَقْوِيمُ الْهَيْكَلِ يَحْتَاجُ إِلَى خِبْرَةٍ | Pelurusan rangka butuh pengalaman
+إصلاح أضرار الاصطدام | إِصْلَاحُ أَضْرَارِ الِاصْطِدَامِ مُكْلِفٌ | Perbaikan kerusakan tabrakan itu mahal
+منطقة الانبعاج | مِنْطَقَةُ الِانْبِعَاجِ فِي الْمُقَدِّمَةِ | Zona deformasi ada di bagian depan
+منطقة امتصاص الصدمة | مِنْطَقَةُ امْتِصَاصِ الصَّدْمَةِ تَحْمِي الرُّكَّابَ | Zona penyerap benturan melindungi penumpang
+مقياس الفراغ البيني | مِقْيَاسُ الْفَرَاغِ الْبَيْنِيِّ رَفِيعٌ | Pengukur celah antarpanel tipis
+معاملة مضادة للصدأ | الْمُعَامَلَةُ الْمُضَادَّةُ لِلصَّدَأِ تَحْمِي الْمَعْدِنَ | Perlakuan antikarat melindungi logam
+طبقة الزنك | طَبَقَةُ الزِّنْكِ رَقِيقَةٌ | Lapisan sengnya tipis
+مثبت الصدأ | مُثَبِّتُ الصَّدَأِ يُوقِفُ التَّآكُلَ | Stabilisator karat menghentikan korosi
+تآكل كهربائي | التَّآكُلُ الْكَهْرَبَائِيُّ عِنْدَ الْمَفْصِلِ | Korosi elektrokimia di sambungan
+رطوبة محتبسة | الرُّطُوبَةُ الْمُحْتَبَسَةُ تَحْتَ الطِّلَاءِ | Kelembapan terperangkap di bawah cat
+تجفيف السطح | تَجْفِيفُ السَّطْحِ قَبْلَ الرَّشِّ | Mengeringkan permukaan sebelum disemprot
+منظف السطح | مُنَظِّفُ السَّطْحِ يُزِيلُ الْغُبَارَ | Pembersih permukaan menghilangkan debu
+ماسح السيليكون | مَاسِحُ السِّيلِيكُونِ قَبْلَ الطِّلَاءِ | Penghilang silikon sebelum cat
+معادل الحموضة | مُعَادِلُ الْحُمُوضَةِ لِلْمَعْدِنِ | Penetral keasaman untuk logam
+واق من الرذاذ | الْوَاقِي مِنَ الرَّذَاذِ عَلَى الزُّجَاجِ | Pelindung overspray di kaca
+حبيبات الطلاء | حُبَيْبَاتُ الطِّلَاءِ عَلَى السَّطْحِ | Partikel cat di permukaan
+قطرات الرش | قَطَرَاتُ الرَّشِّ عَلَى الْبَابِ | Tetesan semprotan di pintu
+تراكم الطلاء | تَرَاكُمُ الطِّلَاءِ فِي الزَّاوِيَةِ | Penumpukan cat di sudut
+تغطية الطلاء | تَغْطِيَةُ الطِّلَاءِ جَيِّدَةٌ | Daya tutup catnya baik
+تدرج اللون | تَدَرُّجُ اللَّوْنِ مِنَ الْفَاتِحِ إِلَى الْغَامِقِ | Gradasi warna dari terang ke gelap
+مطابقة اللون تحت الضوء | مُطَابَقَةُ اللَّوْنِ تَحْتَ الضَّوْءِ مُهِمَّةٌ | Pencocokan warna di bawah cahaya itu penting
+غرفة تجفيف | غُرْفَةُ التَّجْفِيفِ سَاخِنَةٌ | Ruang pengeringannya panas
+مصباح فحص اللون | مِصْبَاحُ فَحْصِ اللَّوْنِ سَاطِعٌ | Lampu pemeriksa warnanya terang
+مصفاة الطلاء | مِصْفَاةُ الطِّلَاءِ نَظِيفَةٌ | Saringan catnya bersih
+مكشط المعجون | مِكْشَطُ الْمَعْجُونِ مَرِنٌ | Pengikis dempulnya lentur
+ممسحة مطاطية | الْمِمْسَحَةُ الْمَطَّاطِيَّةُ لِلْمَاءِ | Rakel karet untuk air
+قفاز مقاوم للمذيبات | الْقُفَّازُ الْمُقَاوِمُ لِلْمُذِيبَاتِ أَزْرَقُ | Sarung tangan tahan pelarut berwarna biru
+حذاء سلامة | حِذَاءُ السَّلَامَةِ ثَقِيلٌ | Sepatu keselamatannya berat
+حاجز واق | الْحَاجِزُ الْوَاقِي حَوْلَ الْآلَةِ | Pelindung pembatas di sekitar mesin
+محطة غسل العيون | مَحَطَّةُ غَسْلِ الْعُيُونِ قَرِيبَةٌ | Stasiun pencuci mata dekat
+تخزين المواد الكيميائية | تَخْزِينُ الْمَوَادِّ الْكِيمْيَائِيَّةِ فِي خِزَانَةٍ | Menyimpan bahan kimia di lemari
+معدات الحماية الشخصية | مُعَدَّاتُ الْحِمَايَةِ الشَّخْصِيَّةِ إِلْزَامِيَّةٌ | Alat pelindung diri itu wajib
+فحص ما بعد الإصلاح | فَحْصُ مَا بَعْدَ الْإِصْلَاحِ ضَرُورِيٌّ | Pemeriksaan setelah perbaikan itu perlu
+قياس اللون | قِيَاسُ اللَّوْنِ بِالْجِهَازِ | Pengukuran warna dengan alat
+تطابق الفواصل | تَطَابُقُ الْفَوَاصِلِ بَيْنَ الْأَلْوَاحِ | Keseragaman celah antarpanel
+اعتماد العمل | اعْتِمَادُ الْعَمَلِ مِنَ الْمُشْرِفِ | Persetujuan hasil dari pengawas
+تقرير تقدير الضرر | تَقْرِيرُ تَقْدِيرِ الضَّرَرِ جَاهِزٌ | Laporan estimasi kerusakan siap
+توثيق القياسات | تَوْثِيقُ الْقِيَاسَاتِ فِي الْجَدْوَلِ | Dokumentasi hasil pengukuran di tabel
