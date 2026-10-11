@@ -1,0 +1,26 @@
+name: Tanam ulang data ke index.html
+# Setiap words.json berubah di main: validasi, tanam ulang ke index.html, naikkan versi cache sw.js.
+# Commit otomatis hanya menyentuh index.html dan sw.js (bukan words.json), jadi tidak memicu dirinya sendiri.
+on:
+  push:
+    branches: [main]
+    paths: ["words.json"]
+permissions:
+  contents: write
+jobs:
+  bangun:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python scripts/validate.py
+      - run: python scripts/build.py
+      - name: Commit hasil build
+        run: |
+          if git diff --quiet; then echo "Tidak ada perubahan"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html sw.js
+          git commit -m "build: tanam ulang words.json ke index.html [skip ci]"
+          git push
