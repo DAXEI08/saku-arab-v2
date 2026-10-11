@@ -1,0 +1,54 @@
+name: Usul kata baru
+description: Usulkan kosakata atau koreksi untuk SakuArab
+title: "[Kata] "
+labels: ["kosakata"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Terima kasih sudah membantu. Usulan akan **ditinjau guru Bahasa Arab** sebelum digabung.
+        Harakat dan padanan istilah teknis mohon ditulis seteliti mungkin.
+  - type: dropdown
+    id: jurusan
+    attributes:
+      label: Jurusan
+      options: [RPL, Akuntansi, TBKR, TSM, Umum]
+    validations:
+      required: true
+  - type: input
+    id: arab
+    attributes:
+      label: Kata Arab (berharakat, tanpa tanwin akhir)
+      placeholder: "مِحْوَر"
+    validations:
+      required: true
+  - type: input
+    id: arti
+    attributes:
+      label: Arti dalam Bahasa Indonesia
+    validations:
+      required: true
+  - type: input
+    id: kategori
+    attributes:
+      label: Kategori
+      description: Pakai kategori yang sudah ada, atau usulkan yang baru.
+    validations:
+      required: true
+  - type: textarea
+    id: contoh
+    attributes:
+      label: Contoh kalimat (opsional)
+      description: Satu baris Arab berharakat, satu baris terjemahan.
+  - type: textarea
+    id: sumber
+    attributes:
+      label: Sumber atau alasan (opsional)
+      description: Buku, jobsheet, atau kamus tempat istilah ini ditemukan.
+  - type: dropdown
+    id: jenis
+    attributes:
+      label: Jenis usulan
+      options: [Kata baru, Koreksi harakat, Koreksi arti, Koreksi contoh kalimat]
+    validations:
+      required: true
